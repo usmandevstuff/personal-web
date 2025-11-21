@@ -33,7 +33,7 @@ export default function Home() {
                   asChild
                   className="p-0 text-muted-foreground hover:text-primary"
                 >
-                  <Link href="#" target="_blank">
+                  <Link href="https://github.com/usmandevstuff" target="_blank">
                     <Github className="mr-2" /> GitHub
                   </Link>
                 </Button>
