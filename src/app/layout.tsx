@@ -4,8 +4,8 @@ import { ThemeProvider } from '@/components/theme-provider';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'AuraDev',
-  description: 'Developer Landing Page',
+  title: 'Muhammad Usman',
+  description: 'Developer | Tech Enthusiast | Gamer',
 };
 
 export default function RootLayout({
