@@ -51,7 +51,7 @@ export default function Home() {
                   asChild
                   className="p-0 text-muted-foreground hover:text-primary"
                 >
-                  <Link href="#" target="_blank">
+                  <Link href="https://x.com/usmandevstuff" target="_blank">
                     <Twitter className="mr-2" /> Twitter
                   </Link>
                 </Button>
